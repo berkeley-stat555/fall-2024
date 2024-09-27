@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: 'Dept 999'
+  title: 'Stat 555'
   description: 'Test Class Website Based On Myst'
   keywords: []
   authors: ['Instructor Name']
@@ -24,7 +24,7 @@ project:
     - schedule.mjs
 site:
   template: book-theme
-  title: 'Dept 999'
+  title: 'Stat 555'
   options:
     logo: 'stat_bear.png'
   nav: []
@@ -36,4 +36,4 @@ site:
     - title: Gradescope
       url: https://www.gradescope.com/courses/564792
   domains:
-    - berkeley-cdss.github.io
+    - stat555.stat.berkeley.edu
